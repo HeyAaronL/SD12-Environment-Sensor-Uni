@@ -1,6 +1,6 @@
 # SD12 Environment Sensor System
 
-This was a university project implementing an environmental monitoring system using embedded C++ programming. This system captures, processes, and manages environmental sensor data through coordinated hardware (Arduino) and software. The Arduino board had a LCD display with a menu, allowing the user to adjust settings, review data or send commands manually.
+This was a university project implementing an environmental monitoring system using embedded C++ programming. This system captures, processes, and manages environmental sensor data through coordinated hardware (Arduino) and software. The Arduino board had a LCD display with a menu, allowing the user to adjust settings, review data or send commands manually. I worked on this project with two other students.
 
 Overall, using SD-12 communication protocol, the aim of this project was to gather environment data on an Arduino device, log the data on an attached SD card, and have it sent to another device when requested. The project was a success 🎉
 
